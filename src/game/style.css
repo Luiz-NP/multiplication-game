@@ -48,3 +48,8 @@ form {
   margin-top: 10px;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
+
+span {
+  text-align: center;
+  margin-bottom: 10px;
+}
