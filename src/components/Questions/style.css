@@ -1,0 +1,50 @@
+.Timer {
+  display: flex;
+  height: 200px;
+  width: 300px;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border: 1px solid black;
+  border-radius: 10px;
+  background-color: rgb(147, 17, 233);
+  color: white;
+  font-size: 2rem;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  box-shadow: 5px 5px 10px rgb(46, 0, 77);
+}
+
+.container {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+
+.timer {
+  margin-bottom: 20px;
+}
+
+form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.input {
+  width: 30%;
+  border: none;
+  border-radius: 10px;
+  text-align: center;
+  margin-top: 5px;
+  font-size: 25px;
+}
+
+.button {
+  font-size: large;
+  border-style: none;
+  border-radius: 5px;
+  margin-top: 10px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
